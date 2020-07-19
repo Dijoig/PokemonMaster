@@ -1,0 +1,19 @@
+POKEMON METHODS
+lose_health:
+- can`t be knocked out
+
+gain_health:
+-can't be knocked out
+-can't heal more than max health
+
+knocked_out:
+
+revive:
+-needs to be knocked out
+
+attack:
+-can't be knocked out
+
+TRAINER METHODS:
+switch_pokemon:
+-can't switch to a knocked out pokemon
